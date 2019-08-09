@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryProject", "LibraryProject\LibraryProject.csproj", "{350D0D31-D43B-4849-8C10-5B2C01933D5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "LibraryProject\ConsoleTest.csproj", "{350D0D31-D43B-4849-8C10-5B2C01933D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLibrary", "StudentLibrary\StudentLibrary.csproj", "{987B17DD-3186-41A9-ACF1-C665A52BE214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GregsUtilitiesLibrary", "GregsUtilitiesLibrary\GregsUtilitiesLibrary.csproj", "{7149AEFC-23DF-4BE3-A1B2-7970AD86BC6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{350D0D31-D43B-4849-8C10-5B2C01933D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{350D0D31-D43B-4849-8C10-5B2C01933D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{350D0D31-D43B-4849-8C10-5B2C01933D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987B17DD-3186-41A9-ACF1-C665A52BE214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987B17DD-3186-41A9-ACF1-C665A52BE214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987B17DD-3186-41A9-ACF1-C665A52BE214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987B17DD-3186-41A9-ACF1-C665A52BE214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7149AEFC-23DF-4BE3-A1B2-7970AD86BC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7149AEFC-23DF-4BE3-A1B2-7970AD86BC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7149AEFC-23DF-4BE3-A1B2-7970AD86BC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7149AEFC-23DF-4BE3-A1B2-7970AD86BC6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
